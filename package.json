@@ -1,0 +1,16 @@
+{
+  "name": "logssearch",
+  "version": "1.0.0",
+  "description": "Busca todos os matchs de um regex em todos os arquivos de um tipo em um diretório.",
+  "main": "logs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "event-stream": "^4.0.1",
+    "fs": "0.0.1-security",
+    "minimist": "^1.2.0"
+  }
+}
